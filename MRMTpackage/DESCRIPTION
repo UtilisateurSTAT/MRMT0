@@ -1,0 +1,11 @@
+Encoding: UTF-8
+Package: MRMTpackage
+Title: Un package pour reproduire le tableau standard A2
+Version: 0.0.0.9000
+Authors@R: person("Basile", "Huguenin-Virchaux", email = "basile.huguenin@ne.ch", role = c("aut", "cre"))
+Description: Ce package contient une série de fonctions utiles pour générer des colonnes (voire la totalité) du tableau standard A2 dans le cadre du MRMT.
+Depends: R (>= 3.5.2)
+License: What license is it under?
+Import: dplyr, purrr, Hmisc, tidyr
+LazyData: true
+RoxygenNote: 6.1.1
